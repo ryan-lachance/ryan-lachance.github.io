@@ -10,8 +10,7 @@ html {
 body {
   background-color: #0071ce; /* Walmart Blue */
   width: 100%;
-  border: 2px solid black;
-  padding: 20px, 20px, 20px, 20px
+  padding: 0px, 20px, 20px, 20px
 }
 
 h1 {
