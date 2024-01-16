@@ -8,10 +8,10 @@ html {
 }
  
 body {
-  background-color: powderblue;
-  width: 600px;
+  background-color: #0071ce; /* Walmart Blue */
+  width: 100%;
   border: 2px solid black;
-  padding: 0px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
   
 }
 
@@ -20,8 +20,8 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 20px 0;
-	color: #ff00ff;  /* Fuchsia */
-	text-shadow: 3px 3px 1px black;
+	color: white;  
+	text-shadow: 3px 3px 1px #ffc220;  /* Walmart yellow */
 }
 
 img {
@@ -31,7 +31,7 @@ img {
 }
 
 p {
-  color: red;
+  color: white;
 }
 
 table {
@@ -41,7 +41,7 @@ table {
 
 /* Defining styling for a specific element type - each question */
 .question {
-  background-color: black;
+  background-color: #ffc220;  /* Walmart yellow */
   color: white;
   margin: 20px;
   padding: 20px;
@@ -52,7 +52,7 @@ table {
   display: block;
   width: 100%;
   border: none;
-  background-color: #ffff66;  /* yellow */
+  background-color: #ffc220;  /* Walmart yellow */
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
@@ -62,7 +62,7 @@ table {
 /* Defining styling for a specific element with an id */
 #signature {
   text-align: right;
-  color: red;
+  color: white;
   font-style: italic;
   font-size: 75%;
 }
